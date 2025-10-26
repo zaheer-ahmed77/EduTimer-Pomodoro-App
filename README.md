@@ -11,13 +11,13 @@ This project was developed as a Complex Engineering Problem (CEP) for the Mobile
 
 ## 📸 Screenshots
 
-| Onboarding | Pomodoro (Main) | Task List |
-| :---: | :---: | :---: |
-| <img src="project_readme_assets/onboarding.jpg" width="200"> | <img src="project_readme_assets/pomodoro.jpg" width="200"> | <img src="project_readme_assets/tasks.jpg" width="200"> |
+| Onboarding | Pomodoro (Main) |
+| :---: | :---: | 
+| <img src="project_readme_assets/onboarding.jpg" width="200"> | <img src="project_readme_assets/pomodoro.jpg" width="200"> |
 
-| Stats Screen | Settings Screen | Notification |
-| :---: | :---: | :---: |
-| <img src="project_readme_assets/stats.jpg" width="200"> | <img src="project_readme_assets/settings.jpg" width="200"> | <img src="project_readme_assets/notification.jpg" width="200"> |
+| Stats Screen | Settings Screen | 
+| :---: | :---: |
+| <img src="project_readme_assets/stats.jpg" width="200"> | <img src="project_readme_assets/settings.jpg" width="200"> | 
 
 ---
 
