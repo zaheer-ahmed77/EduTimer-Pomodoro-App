@@ -6,6 +6,11 @@
 A beautiful, cross-platform Pomodoro timer and task management app built with Flutter. Designed to help students and professionals boost their productivity by structuring their focus sessions.
 
 This project was developed as a Complex Engineering Problem (CEP) for the Mobile Application Development course (22SW).
+---
+## 🧑‍💻 Developed By
+
+* **Aisha Khan (22SW017)**
+* **Zaheer Ahmed (22SW077)**
 
 ---
 
